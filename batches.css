@@ -1,0 +1,44 @@
+#na{
+    position:absolute;
+    width:absolute;
+    background-color: rgb(255, 255, 255);
+
+  }
+  #p1{
+    color: white;
+    font-size: 20;
+    background-color: #1c828a;
+    
+
+  }
+  #p3{
+    padding:1%;
+    font-size: 22;
+    background-color:rgb(255, 255, 255);
+  }
+  #p2{
+    margin:1%;
+    padding:1%;
+    font-size: 22;
+    background-color:rgb(255, 255, 255);
+  }
+  #bt{
+    font-size: 15;
+    padding: 1px;
+    margin:0.3%;
+    width:40px;
+    background-color: rgba(0,0,0,0.35);
+  }
+  #bt1{
+    font-size: 15;
+    background-color: #1c828a;
+  }
+  #body{
+    background-color: rgba(0,0,0,0.18);
+  }
+
+  li.active{
+    background-color: #1c828a;
+  }
+
+         

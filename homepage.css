@@ -1,0 +1,238 @@
+* {box-sizing: border-box;}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/**************contact start*******************/
+.jumbotronh{
+  background-color: #1c828a !important;
+  color: #FFF;
+  border-radius: 0px;
+}
+.jumbotron-smh { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotronh small {
+color: #FFF;
+}
+.mailIcon{
+  background-color:lightgray;
+  border:1px solid lightgray;
+  padding:2px;
+}
+.legSpace{
+  margin-top:1%;
+}
+/**************contact end*******************/
+
+/**************about us*******************/
+footer{
+  background-color:#
+}
+.aboutus-section {
+    padding: 90px 0;
+}
+.aboutus-title {
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin: 0 0 39px;
+    padding: 0 0 11px;
+    position: relative;
+    text-transform: uppercase;
+    color: #000;
+}
+.aboutus-title::after {
+    background: #fdb801 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 54px;
+}
+.aboutus-text {
+    color: #606060;
+    font-size: 13px;
+    line-height: 22px;
+    margin: 0 0 35px;
+}
+
+a:hover, a:active {
+    color: #ffb901;
+    text-decoration: none;
+    outline: 0;
+}
+.aboutus-more {
+    border: 1px solid #fdb801;
+    border-radius: 25px;
+    color: #fdb801;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0;
+    padding: 7px 20px;
+    text-transform: uppercase;
+}
+.feature .feature-box .iconset {
+    background: #fff none repeat scroll 0 0;
+    float: left;
+    position: relative;
+    width: 18%;
+}
+.feature .feature-box .iconset::after {
+    background: #fdb801 none repeat scroll 0 0;
+    content: "";
+    height: 150%;
+    left: 43%;
+    position: absolute;
+    top: 100%;
+    width: 1px;
+}
+
+.feature .feature-box .feature-content h4 {
+    color: #0f0f0f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin: 0 0 5px;
+}
+
+
+.feature .feature-box .feature-content {
+    float: left;
+    padding-left: 28px;
+    width: 78%;
+}
+.feature .feature-box .feature-content h4 {
+    color: #0f0f0f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin: 0 0 5px;
+}
+.feature .feature-box .feature-content p {
+    color: #606060;
+    font-size: 13px;
+    line-height: 22px;
+}
+.icon {
+    color : #f4b841;
+    padding:0px;
+    font-size:40px;
+    border: 1px solid #fdb801;
+    border-radius: 100px;
+    color: #fdb801;
+    font-size: 28px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    width: 70px;
+}
+/**************about us end*******************/
+
+/*******************middle section****************/
+
+.middleSection{
+  background-image:url("https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi3qO_Cot_dAhWJvY8KHai5ASAQjRx6BAgBEAU&url=https%3A%2F%2Fcutcaster.com%2Fphoto%2F801038592-E-learning-background-concept%2F&psig=AOvVaw3Nv6pPauLcRZrvTnsA1q6i&ust=1538277953356809");
+}
+/*******************middle section end****************/
+
+.registerForm{
+  margin:0px auto;
+  min-width:10%;
+}
+
+/****************************course access page**************/
+.leftContent{
+  width:20%;
+  float:left;
+}
+
+.rightContent{
+  width:60%;
+  border:2px solid #f5f5f5;
+  float:left;
+  margin-left:4%;
+}
+
+.leftContent li{
+  width:100%;
+  list-style:none;
+  border-bottom:1px solid #d9d9d9;
+  padding:2%;
+}
+
+.contents{
+
+    border-right: 2px solid #989c9e;
+
+
+}
+/****************course acccess end****************/
+
+
+
+
+
+.banner-image{
+     padding-bottom: 50px;
+     margin-bottom: 20px;
+     text-align: center;
+     color: #f8f8f8;
+     background: url(../images/banner.jpg) no-repeat center;
+     background-size: cover;
+}
+
+.inner-banner-image{
+      padding-top: 12%;
+      width:80%;
+      margin:auto;
+}
+#banner_content{
+  position: relative;
+  padding-top: 6%;
+  padding-bottom: 6%;
+  margin-top: 12%;
+  margin-bottom: 12%;
+  background-color: rgba(0, 0, 0, 0.7);
+  max-width: 660px;
+}
+
+.registerForm{
+    margin-top: 10%;
+    width: 50%;
+}
+.text-gray{
+    left: 2%;
+}
+
+.foot{
+    width: 100%;
+    margin-top: 10%
+}
+
+.notyet a{
+    font-size: 90%;
+    padding:1%;
+    position:relative;
+    left:65%
+}
+
+.loginForm{
+    padding: 12% 35%;
+}
+
+.contents li{
+    cursor: pointer;
+}
+
+.rightContent{
+    padding:  2%;
+}
+
+#btnContactUs{
+  background-color: #1c828a;
+  border-color: #1c828a; 
+}
